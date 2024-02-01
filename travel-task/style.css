@@ -1,0 +1,173 @@
+* {
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#head {
+  text-align: center;
+}
+.head3 {
+  font-size: x-large;
+  text-align: center;
+}
+.rassiya {
+  width: 424px;
+  border-radius: 20px;
+  height: 250px;
+}
+.ukraina {
+  width: 415px;
+  border-radius: 20px;
+  height: 250px;
+}
+.angliya {
+  width: 400px;
+  border-radius: 20px;
+  height: 250px;
+}
+.moskva {
+  width: 450px;
+  height: 450px;
+  border-radius: 5px;
+}
+#lorem {
+  text-align: right;
+}
+.link {
+  text-align: center;
+  display: block;
+}
+.sarlavha {
+  text-align: center;
+}
+.dolor {
+  display: block;
+}
+.rasm1 {
+  width: 242px;
+  border-radius: 220px;
+  height: 242px;
+  margin-left: 9px;
+}
+.rasm2 {
+  width: 242px;
+  border-radius: 220px;
+  height: 242px;
+}
+.rasm3 {
+  width: 242px;
+  border-radius: 220px;
+  height: 242px;
+}
+.rasm4 {
+  width: 242px;
+  border-radius: 220px;
+  height: 242px;
+}
+.rasm5 {
+  width: 242px;
+  border-radius: 220px;
+  height: 242px;
+}
+.rasm6 {
+  border-radius: 6px;
+  width: 610px;
+}
+.foto1 {
+  width: 410px;
+  border-radius: 125px;
+  height: 250px;
+  margin-left: 5px;
+}
+.foto2 {
+  width: 410px;
+  border-radius: 125px;
+  height: 250px;
+}
+.foto3 {
+  width: 410px;
+  border-radius: 125px;
+  height: 250px;
+}
+.text {
+  text-align: center;
+}
+.text1 {
+  text-align: center;
+}
+.text3 {
+  text-align: center;
+}
+.tables {
+  text-align: center;
+  font-size: x-large;
+}
+.foto4 {
+  width: 413px;
+  border-radius: 20px;
+  height: 250px;
+}
+.foto5 {
+  width: 413px;
+  border-radius: 20px;
+  height: 250px;
+}
+.foto6 {
+  width: 413px;
+  border-radius: 20px;
+  height: 250px;
+}
+table {
+  border-collapse: collapse;
+  width: 90%;
+  margin-top: 2px;
+  text-align: center;
+  margin: 0 40px;
+}
+th,
+td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.country {
+  text-align: left;
+}
+
+.text5 {
+  text-align: center;
+  margin-top: 1%;
+}
+.text6 {
+  text-align: center;
+  margin-top: 0%;
+}
+
+.poytaht {
+  text-align: left;
+}
+.materik {
+  text-align: left;
+}
+.foto7 {
+  width: 400px;
+  border-radius: 17%;
+  height: 240px;
+  margin-left: 1%;
+}
+.foto8 {
+  width: 400px;
+  border-radius: 17%;
+  height: 240px;
+}
+.foto9 {
+  width: 400px;
+  border-radius: 17%;
+  height: 240px;
+}
+.text10 {
+  text-align: center;
+  font-size: x-large;
+  margin-top: 1%;
+  margin-bottom: 2%;
+}
